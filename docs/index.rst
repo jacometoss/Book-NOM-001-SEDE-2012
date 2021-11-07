@@ -1,10 +1,11 @@
+********************************
 Capítulo 1 Disposiones Generales
-================================
+********************************
 
 
-*************************
+
 Artículo 100 Definiciones
-*************************
+-------------------------
 
 **Alcance**. Este Artículo contiene las definiciones esenciales para la aplicación de esta NOM. 
 No pretende incluir los términos generales comúnmente definidos o los términos técnicos definidos 
@@ -12,9 +13,10 @@ en otras normas. En general, sólo se definen términos utilizados en dos o más
 En algunos Artículos se incluyen otras definiciones de aplicación particular en el propio Artículo, pero puede hacerse referencia a ellas en este Artículo. La Parte A de este Artículo contiene las definiciones que se aplican dondequiera que los términos sean utilizados en esta NOM.
 La Parte B contiene las definiciones aplicables únicamente en los Artículos que cubren instalaciones y  equipos que operan a más de 600 volts.
 
-*************************
+
 A. Deficiones Generales
-*************************
+-----------------------
+
 * **A la vista de:** Donde se especifique que un equipo debe estar **A la vista de** otro equipo, significa que un equipo debe estar visible desde el otro equipo y que no están separados más de 15 metros uno del otro.
 * **A prueba de intemperie:** Construido o protegido de modo que su exposición o uso a la intemperie no impida el funcionamiento especificado.
 	
@@ -296,6 +298,7 @@ En tanto que las definiciones generales de la Parte A anterior se aplican en tod
 **Tabla de contenido**
 
 .. toctree::
+   :numbered:
    :maxdepth: 3
 
    100/index
