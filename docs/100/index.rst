@@ -405,3 +405,11 @@ ejemplo en “lugares secos”, “para uso interior únicamente”, en “lugar
 
 .. note::
 	**Nota 3:** Ver **Tabla 110-28** para las designaciones apropiadas de los envolventes.
+	
+110-12. Ejecución mecánica de los trabajos. 
+-------------------------------------------
+Los equipos eléctricos se deben instalar de manera limpia y competente.
+
+	* a) Aberturas no utilizadas.Las aberturas no utilizadas, diferentes a las destinadas a la operación del equipo, a aquellas con propósitos de montaje o a las permitidas como parte del diseño de equipo aprobado, deben estar cerradas para que ofrezcan una protección sustancialmente equivalente a la cubierta del equipo. Cuando se utilicen placas o tapones metálicos con envolventes no metálicos, éstos deben estar empotrados por lo menos 6 milímetros con respecto a la superficie exterior del envolvente.
+
+	* b) Integridad de los equipos y de las conexiones eléctricas. Las partes internas de los equipos eléctricos, tales como barras colectoras, terminales de alambrado, aisladores y otras superficies, no deben ser dañadas o contaminadas por materiales ajenos como pintura, yeso, limpiadores, abrasivos o residuos corrosivos. No debe haber partes dañadas que puedan afectar negativamente el funcionamiento seguro ni la resistencia mecánica de los equipos, tales como piezas rotas, dobladas, cortadas, o deterioradas por la corrosión, por agentes químicos o por recalentamiento.
