@@ -8,7 +8,6 @@ Artículo 100 Definiciones
 -------------------------
 
 
-**Tabla de contenido**
 
 .. toctree::
    :maxdepth: 3
