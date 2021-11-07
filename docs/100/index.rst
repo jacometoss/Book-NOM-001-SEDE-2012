@@ -328,4 +328,11 @@ anteriores se consideran aprobados para los efectos de esta NOM.
 
 	* a) Selección. Para la selección de los elementos que conformarán la instalación eléctrica, se debe tomar en cuenta lo siguiente:
 		
-		* (1) Conveniencia para instalación y uso de conformidad con las disposiciones de esta NOM.
+	* (1) Conveniencia para instalación y uso de conformidad con las disposiciones de esta NOM.
+		
+	.. note::
+		NOTA: La conveniencia del uso de un equipo puede ser identificada mediante una descripción marcada
+		en o suministrada con un producto, que permite identificar la conveniencia de ese producto para un uso,
+		medio ambiente o aplicación específicos. Condiciones especiales de uso u otras limitaciones y otra
+		información pertinente puede ser marcada sobre el equipo, incluida en las instrucciones del producto, o
+		incluida en el etiquetado.
