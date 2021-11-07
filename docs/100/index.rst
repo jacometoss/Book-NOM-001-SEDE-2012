@@ -430,7 +430,6 @@ Conectores y terminales para conductores con cableados más flexibles que los de
 .. note::
 	**Nota:** En muchas terminales y equipo se indica su par de apriete.
 
-	* **a) Terminales.** Debe asegurarse que la conexión de los conductores a las terminales se haga de forma segura, sin deteriorar los conductores y debe hacerse por medio de conectores de presión (incluyendo los de tipo tornillo), conectores soldables o empalmes a terminales flexibles. Se permite la conexión por medio de placa y tornillo o perno roscado y tuerca en placas con las esquinas levantadas para conductores con tamaño 5.26 mm² (10 AWG) o menores.
-		Las terminales para más de un conductor y las terminales utilizadas para conectar aluminio, deben estar identificadas para ese uso
+* **a) Terminales.** Debe asegurarse que la conexión de los conductores a las terminales se haga de forma segura, sin deteriorar los conductores y debe hacerse por medio de conectores de presión (incluyendo los de tipo tornillo), conectores soldables o empalmes a terminales flexibles. Se permite la conexión por medio de placa y tornillo o perno roscado y tuerca en placas con las esquinas levantadas para conductores con tamaño 5.26 mm² (10 AWG) o menores.Las terminales para más de un conductor y las terminales utilizadas para conectar aluminio, deben estar identificadas para ese uso
 
 	
