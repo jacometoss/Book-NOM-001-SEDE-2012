@@ -446,3 +446,4 @@ Conectores y terminales para conductores con cableados más flexibles que los de
 		* **a**. Las terminales de equipos para circuitos de 100 amperes o menos o marcadas para conductores con tamaño 2.08 mm² a 42.4 mm² (14 AWG a 1 AWG), deben utilizarse solamente en uno de los siguientes:
 			*	**[1]** Conductores con temperatura de operación del aislamiento de 60 ºC.
 			*   **[2]** Conductores con temperatura de operación del aislamiento mayor, siempre y cuando la ampacidad de estos conductores se determine tomando como base la ampacidad a 60 °C del tamaño del conductor usado.
+			*   **[3]** Conductores con temperatura de operación del aislamiento mayor, si el equipo está aprobado e identificado para tales conductores.
