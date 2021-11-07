@@ -348,7 +348,7 @@ anteriores se consideran aprobados para los efectos de esta NOM.
 
 	* [8] Otros factores que contribuyan a la salvaguarda de las personas que utilicen o que puedan entrar en contacto con el equipo.
 	
-**110 b) Instalación y uso.** Los equipos etiquetados se deben instalar y usar de acuerdo con las instrucciones incluidas en la etiqueta y/o instructivo.
+* **b) Instalación y uso.** Los equipos etiquetados se deben instalar y usar de acuerdo con las instrucciones incluidas en la etiqueta y/o instructivo.
 
 110-4. Tensiones. 
 -----------------
