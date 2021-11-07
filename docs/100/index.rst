@@ -425,7 +425,7 @@ Los equipos eléctricos se deben instalar de manera limpia y competente.
 ------------------------------
 Debido a que metales distintos tienen características diferentes, las terminales a compresión, empalmes a compresión y terminales soldadas se deben identificar para el material del conductor y se deben instalar y usar apropiadamente. No se deben utilizar, en una terminal o en un empalme, conductores de metales distintos cuando haya contacto físico entre ellos (como por ejemplo, cobre y aluminio, cobre y aluminio revestido de cobre o aluminio y aluminio revestido de cobre), a menos que el dispositivo esté identificado para ese fin y esas condiciones de uso. Si se utilizan materiales como soldadura, fundentes, inhibidores y compuestos, estos deben ser adecuados para el uso y deben ser de un tipo que no afecte negativamente a los conductores, a la instalación o al equipo.
 
-Conectores y terminales para conductores con cableados más flexibles que los de Clase B y Clase C mostrados en el Capítulo 10, Tabla 10, se deben identificar para la clase o clases específicas de conductores.
+Conectores y terminales para conductores con cableados más flexibles que los de Clase B y Clase C mostrados en el **Capítulo 10**, **Tabla 10**, se deben identificar para la clase o clases específicas de conductores.
 
 .. note::
 	**Nota:** En muchas terminales y equipo se indica su par de apriete.
@@ -435,11 +435,11 @@ Conectores y terminales para conductores con cableados más flexibles que los de
 	.. attention:: 
 		Las terminales para más de un conductor y las terminales utilizadas para conectar aluminio, deben estar identificadas para ese uso.
 
-* **b) Empalmes.** Los conductores se deben empalmar con dispositivos adecuados según su uso o con soldadura de bronce, soldadura autógena, o soldadura con un metal fundible o de aleación. Los empalmes soldados deben unirse primero, de forma que aseguren, antes de soldarse, una conexión firme, tanto mecánica como eléctrica y después soldarse (Véase 921-24(b)). Los empalmes, uniones y extremos libres de los conductores deben cubrirse con un aislamiento equivalente al de los conductores o con un dispositivo aislante identificado para ese fin.
+* **b) Empalmes.** Los conductores se deben empalmar con dispositivos adecuados según su uso o con soldadura de bronce, soldadura autógena, o soldadura con un metal fundible o de aleación. Los empalmes soldados deben unirse primero, de forma que aseguren, antes de soldarse, una conexión firme, tanto mecánica como eléctrica y después soldarse (**Véase 921-24(b)**). Los empalmes, uniones y extremos libres de los conductores deben cubrirse con un aislamiento equivalente al de los conductores o con un dispositivo aislante identificado para ese fin.
 	
 	.. attention::
 		Los conectores o medios de empalme de los cables que van directamente enterrados, deben estar aprobados para ese uso.
 		
 * **c) Limitaciones por temperatura.** La temperatura nominal de operación del conductor, asociada con su ampacidad, debe seleccionarse y coordinarse de forma que no exceda la temperatura nominal más baja de cualquier terminal, conductor o dispositivo conectado. Se permite el uso de conductores con temperatura nominal mayor que la especificada para las terminales, cuando se utilizan factores de ajuste por temperatura o de corrección por ampacidad o ambos.
 
-	* **1) Disposiciones para el equipo.** La determinación de las disposiciones para las terminales del equipo se deben basar en 110-14(c)(1)(a) o (c)(1)(b). A menos que el equipo esté aprobado y marcado de forma diferente, la ampacidad del conductor utilizada para determinar las disposiciones para los terminales del equipo se debe basar en la Tabla 310-15(b)(16) y según las modificaciones adecuadas de 310-15(b)(7).
+	* **1) Disposiciones para el equipo.** La determinación de las disposiciones para las terminales del equipo se deben basar en **110-14(c)(1)(a)** o **(c)(1)(b)**. A menos que el equipo esté aprobado y marcado de forma diferente, la ampacidad del conductor utilizada para determinar las disposiciones para los terminales del equipo se debe basar en la Tabla 310-15(b)(16) y según las modificaciones adecuadas de 310-15(b)(7).
