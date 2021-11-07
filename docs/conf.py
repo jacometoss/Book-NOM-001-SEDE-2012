@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'NOM-001-SEDE-2012'
+project = 'Book NOM-001-SEDE-2012'
 copyright = '2021, Marco Polo Jácome Toss'
 author = 'Marco Polo Jácome Toss'
 
