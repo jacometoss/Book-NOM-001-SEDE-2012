@@ -11,12 +11,12 @@ A. Generales
 ------------
 
 110-1. Alcance. 
-~~~~~~~~~~~~~~~
+---------------
 
 Este artículo abarca los requisitos generales para inspección y aprobación, instalación y uso, acceso a y espacios alrededor de, los conductores y equipo eléctricos; envolventes destinados al ingreso de personal e instalaciones en túneles.
 
 110-2. Aprobación.
-~~~~~~~~~~~~~~~~~~~ 
+------------------
 
 En las instalaciones eléctricas a que se refiere esta NOM deben utilizarse materiales y equipos (productos) que cumplan con lo establecido en el numeral 4.3.1.
 
@@ -28,7 +28,7 @@ Los materiales y equipos (productos) que cumplan con las disposiciones estableci
 anteriores se consideran aprobados para los efectos de esta NOM.
 
 110-3. Evaluación, identificación, instalación y uso del equipo.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------
 
 	* a) Selección. Para la selección de los elementos que conformarán la instalación eléctrica, se debe tomar en cuenta lo siguiente:
 		*(1) Conveniencia para instalación y uso de conformidad con las disposiciones de esta NOM.
