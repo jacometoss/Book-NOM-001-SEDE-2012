@@ -75,11 +75,9 @@ A. Deficiones Generales
 * **Conductor de puesta a tierra de los equipos:** Trayectorias conductoras utilizadas para conectar las partes metálicas, que normalmente no conducen corriente, de todos los equipos y al conductor del sistema puesto a tierra o al conductor del electrodo de puesta a tierra o a ambos.
 
 	.. note::
-	
 	    * **Nota 1:** Se reconoce que el conductor de puesta a tierra del equipo también actúa como unión.
 
 	.. note::
-	
 		* **Nota 2:** Ver 250-118 para una lista de conductores aprobados de puesta a tierra de los equipos.
 
 * **Conductor de puesta a tierra:** Conductor utilizado para conectar un equipo o el circuito puesto a tierra de un sistema de alambrado al electrodo o electrodos de puesta a tierra.
@@ -98,8 +96,7 @@ A. Deficiones Generales
 * **Corriente de interrupción:** Corriente máxima a la tensión que un dispositivo, es capaz de interrumpir bajo condiciones de prueba normalizadas.
 
 	.. note::
-	
-		* **Nota:** Los dispositivos diseñados para interrumpir corriente de otros niveles distintos a los de falla, pueden tener su capacidad de interrupción expresada en otros parámetros como: kilovoltamperes, caballos de fuerza o corriente a rotor bloqueado.
+		* Los dispositivos diseñados para interrumpir corriente de otros niveles distintos a los de falla, pueden tener su capacidad de interrupción expresada en otros parámetros como: kilovoltamperes, caballos de fuerza o corriente a rotor bloqueado.
 
 * **Corriente de cortocircuito:** Posible corriente de falla simétrica a la tensión nominal, a la cual un aparato o un sistema puede estar conectado sin sufrir daños que excedan los criterios de aceptación definidos.
 * **Cuarto de baño:** Zona que incluye un lavabo y uno o más de los siguientes elementos: inodoro, urinal, tina, ducha, o muebles de baño similares.
@@ -124,7 +121,7 @@ A. Deficiones Generales
 * **Envolvente:** Caja o chasis de un aparato o la cerca o paredes que rodean una instalación para prevenir que las personas tengan contacto accidental con partes energizadas o para protección de los equipos contra daño físico.
 
 	.. note::
-		* **Nota:** Véase 110-28 y Apéndice D para ejemplos de tipos de envolventes.
+		* Véase 110-28 y Apéndice D para ejemplos de tipos de envolventes.
 
 * **Equipo:** Término general para referirse a: herrajes, dispositivos, aparatos, luminarias, aparatos y productos similares utilizados como partes de, o en conexión con, una instalación eléctrica.
 * **Equipo de acometida:** Equipo necesario para servir de control principal y que usualmente consiste en un interruptor automático o desconectador y fusibles, con sus accesorios, localizado cerca del punto de entrada de los conductores de suministro a un edificio u otra estructura o a un área definida.
@@ -143,7 +140,7 @@ A. Deficiones Generales
 * **Garaje:** Edificio o parte de éste en el que se guardan uno o más vehículos autopropulsados, que están ahí con propósitos de: uso, venta, almacenamiento, renta, reparación, exhibición o demostración.
 
 	.. note::
-		* **Nota:** Respecto a los talleres de servicio y reparación para vehículos automotores (véase 511).
+		* Respecto a los talleres de servicio y reparación para vehículos automotores (véase 511).
 
 * **Hermético a la lluvia:** Construido o protegido de tal manera que la exposición a la lluvia batiente no dé como resultado la entrada de agua bajo condiciones de prueba especificadas.
 * **Hermético al agua:** Construido para que la humedad no entre en la envolvente, en condiciones específicas de prueba.
@@ -152,12 +149,12 @@ A. Deficiones Generales
 * **Identificado (aplicado a los equipos):** Reconocido como adecuado para un propósito, función, uso, entorno o aplicación, específicos, cuando se describe en un requisito particular en esta NOM (véase Equipo).
 
 	.. note::
-		* **Nota:** La adecuación de un equipo para un propósito, uso, entorno o aplicación específicos puede ser determinada por un organismo acreditado para la evaluación de la conformidad del producto. La identificación puede evidenciarse por medio de una marca de conformidad (véase Marcado).
+		* La adecuación de un equipo para un propósito, uso, entorno o aplicación específicos puede ser determinada por un organismo acreditado para la evaluación de la conformidad del producto. La identificación puede evidenciarse por medio de una marca de conformidad (véase Marcado).
 
 * **Interruptor automático:** Dispositivo diseñado para abrir o cerrar un circuito por medios no automáticos y para abrir el circuito automáticamente cuando se produzca una sobrecorriente predeterminada, sin dañarse a sí mismo, cuando se aplica correctamente dentro de su rango.
 
 	.. note:: 
-		* **Nota:** El medio de apertura automática puede ser integral, que actúa directamente sobre el interruptor automático, situado a distancia del mismo.
+		* El medio de apertura automática puede ser integral, que actúa directamente sobre el interruptor automático, situado a distancia del mismo.
 
 * **Ajustable:** Calificativo que indica que el interruptor automático puede ajustarse para que dispare a varios valores de corriente, de tiempo o de ambos, dentro de un rango predeterminado.
 * **Ajuste:** El valor de corriente, de tiempo o de ambos, a los cuales se regula el disparo de un interruptor automático ajustable.
@@ -192,7 +189,7 @@ A. Deficiones Generales
 * **Protector térmico (aplicado a motores):** Dispositivo de protección, que se monta como parte integral de un motor o motor-compresor y el cual, cuando se utiliza de manera apropiada, protege al motor contra sobrecalentamientos peligrosos debido a sobrecargas o fallas de arranque.
 
 	.. note::
-		* **Nota:** El protector térmico puede consistir de uno o más elementos sensores integrados al motor o motor-compresor y un dispositivo externo de control.
+		* El protector térmico puede consistir de uno o más elementos sensores integrados al motor o motor-compresor y un dispositivo externo de control.
 
 * **Protegido térmicamente (aplicado a motores):** Las palabras "protegido térmicamente", en la placa de datos del motor o motor-compresor, indican que el motor tiene un protector térmico incorporado.
 * **Puente de unión:** Conductor confiable, para asegurar la conductividad eléctrica requerida entre partes metálicas que deben estar conectadas eléctricamente.
@@ -207,7 +204,7 @@ A. Deficiones Generales
 * **Punto neutro:** Punto común en una conexión en estrella en un sistema polifásico, o punto medio en un sistema monofásico de 3 hilos, o punto medio de una porción monofásica de un sistema trifásico en delta, o punto medio de un sistema de corriente continua de 3 hilos.
 
 	.. note::
-		* **Nota:** En el punto neutro del sistema, la suma vectorial de las tensiones de todas las otras fases dentro del sistema que utiliza el neutro, con respecto al punto neutro, es cero.
+		* En el punto neutro del sistema, la suma vectorial de las tensiones de todas las otras fases dentro del sistema que utiliza el neutro, con respecto al punto neutro, es cero.
 
 * **Registro:** Envolvente para uso en sistemas subterráneos que tienen un fondo abierto o cerrado, dimensionado de tal forma que permite al personal alcanzar lo que hay dentro, pero no ingresar en él, con el propósito de instalar, operar o mantener el equipo o el alambrado, o ambos.
 * **Resguardado:** Cubierto, blindado, cercado, encerrado, o protegido de otra manera por medio de cubiertas o tapas adecuadas, barreras, rieles, pantallas, placas o plataformas para evitar la posibilidad de acercamiento o contacto de personas u objetos a un punto peligroso.
@@ -233,14 +230,14 @@ A. Deficiones Generales
 * **Sobrecorriente:** Cualquier corriente que supere la corriente nominal de los equipos o la ampacidad de un conductor. La sobrecorriente puede provocarse por una sobrecarga, un cortocircuito o una falla a tierra.
 
 	.. note::
-		* **Nota:** Una corriente en exceso de la nominal puede ser absorbida por determinados equipos y conductores para un conjunto de condiciones dadas. Por eso, las reglas para protección contra sobrecorriente son específicas para cada situación particular.
+		* Una corriente en exceso de la nominal puede ser absorbida por determinados equipos y conductores para un conjunto de condiciones dadas. Por eso, las reglas para protección contra sobrecorriente son específicas para cada situación particular.
 
 * **Sólidamente puesto a tierra:** significa que el conductor puesto a tierra (neutro) lo está sin necesidad de intercalar ninguna resistencia o dispositivo de impedancia.
 * **Suministrador:** Compañía de servicio público (CFE) o autorizada por la LSPEE, encargada del abastecimiento de energía eléctrica para su utilización.
 * **Suministro ininterrumpido de energía:** Un suministro de energía que se utiliza para proporcionar una fuente alterna de alimentación por algún período de tiempo en el caso de una interrupción del suministro normal.
 
 	.. note::
-		* **Nota:** Además, puede proporcionar una alimentación de tensión y frecuencia más constante, reduciendo los efectos de variaciones de tensión y frecuencia.
+		* Además, puede proporcionar una alimentación de tensión y frecuencia más constante, reduciendo los efectos de variaciones de tensión y frecuencia.
 
 * **Tablero de alumbrado y control:** Panel sencillo o grupo de paneles unitarios diseñados para ensamblarse en forma de un solo panel, accesible únicamente desde el frente, que incluye barras conductoras de conexión común y dispositivos automáticos de protección contra sobrecorriente y otros dispositivos de protección, y está equipado con o sin desconectadores para el control de circuitos de alumbrado, calefacción o fuerza; diseñado para instalarlo dentro de un gabinete o caja de cortacircuitos ubicada dentro o sobre un muro o pared divisora y accesible únicamente desde el frente (véase Tablero de distribución).
 * **Tablero de distribución:** Panel grande sencillo, estructura o conjunto de paneles, donde se montan, por el frente o por la parte posterior o por ambos lados: desconectadores, dispositivos de protección contra sobrecorriente y otras protecciones, barras conductoras de conexión común y usualmente instrumentos. Los tableros de distribución son accesibles generalmente por la parte frontal y la posterior, y no están destinados para ser instalados dentro de gabinetes.
@@ -250,12 +247,12 @@ A. Deficiones Generales
 * **Tensión a tierra:** En los circuitos puestos a tierra, es la tensión entre un conductor dado y el punto o conductor del circuito que está puesto a tierra; en circuitos no puestos a tierra es la mayor diferencia de potencial entre un conductor dado y cualquier otro conductor del circuito.
 
 	.. note::
-        * **Nota:** Algunos sistemas, como los de 3 fases 4 hilos, de 1 fase 3 hilos y de corriente continua de 3 hilos, pueden tener varios circuitos a diferentes tensiones.
+        * Algunos sistemas, como los de 3 fases 4 hilos, de 1 fase 3 hilos y de corriente continua de 3 hilos, pueden tener varios circuitos a diferentes tensiones.
 
 * **Tensión nominal:** Valor nominal asignado a un circuito o sistema para designar convenientemente su clase de tensión. La tensión a la cual un circuito opera puede variar de la nominal, dentro de un margen que permite el funcionamiento satisfactorio de los equipos.
 
 	.. note::
-		* **Nota:** Donde se lea 120 volts, podrá ser 120 ó 127 volts.
+		* Donde se lea 120 volts, podrá ser 120 ó 127 volts.
 
 * **Unión: Conexión permanente de partes metálicas, que no lleva corriente normalmente, que forma una trayectoria eléctricamente conductora que asegure la continuidad y capacidad de conducir con seguridad cualquier corriente a la que puedan estar sometidas.
 * **Ventilado: Provisto de medios que permiten una circulación de aire suficiente para remover un exceso de calor, humos o vapores.
@@ -278,14 +275,14 @@ En tanto que las definiciones generales de la Parte A anterior se aplican en tod
 * **Fusible:** Dispositivo de protección contra sobrecorriente con una parte que se funde cuando se calienta por el paso de una sobrecorriente que circule a través de ella e interrumpe el paso de la corriente.
 
 	.. note::
-		* **Nota:** El fusible comprende todas las partes que forman una unidad capaz de efectuar las funciones descritas y puede ser o no el dispositivo completo requerido para conectarlo a un circuito eléctrico.
+		* El fusible comprende todas las partes que forman una unidad capaz de efectuar las funciones descritas y puede ser o no el dispositivo completo requerido para conectarlo a un circuito eléctrico.
 
 * **Fusible accionado electrónicamente:** Dispositivo de protección contra sobrecorriente que consiste generalmente de un módulo de control el cual proporciona las características sensoras de corriente, características tiempo-corriente electrónicamente derivadas, energía para iniciar el disparo y un módulo de interrupción que interrumpe la corriente cuando se produce una sobrecorriente. Estos fusibles pueden operar o no como fusibles tipo limitador, dependiendo del tipo de control seleccionado.
 * **Fusible de potencia:** (véase Fusible)
 * **Fusible de potencia con escape controlado:** Fusible con medios para controlar la descarga generada por la interrupción del circuito de manera que no se puedan expulsar materias sólidas a la atmósfera que lo rodea.
 
 	.. note::
-		* **Nota:** Este fusible está diseñado para que la descarga de gases no dañe o incendie el material aislante en la trayectoria de descarga o propague una chispa a/o entre elementos puestos a tierra o las partes conductoras en la trayectoria de la descarga, cuando la distancia entre el escape y dichas partes de conducción o aislamiento cumplan las recomendaciones del fabricante.
+		* Este fusible está diseñado para que la descarga de gases no dañe o incendie el material aislante en la trayectoria de descarga o propague una chispa a/o entre elementos puestos a tierra o las partes conductoras en la trayectoria de la descarga, cuando la distancia entre el escape y dichas partes de conducción o aislamiento cumplan las recomendaciones del fabricante.
 
 * **Fusible de potencia no ventilado:** Fusible que no tiene un medio intencional para el escape a la atmósfera de gases, líquidos o partículas sólidas producidos por el arco durante la interrupción del circuito.
 * **Fusible de potencia ventilado:** Fusible con medios para el escape a la atmósfera de gases, líquidos o partículas sólidas producidas por el arco durante la interrupción del circuito.
@@ -331,7 +328,7 @@ anteriores se consideran aprobados para los efectos de esta NOM.
 	* [1] Conveniencia para instalación y uso de conformidad con las disposiciones de esta NOM.
 		
 	.. note::
-		**Nota:** La conveniencia del uso de un equipo puede ser identificada mediante una descripción marcada
+		La conveniencia del uso de un equipo puede ser identificada mediante una descripción marcada
 		en o suministrada con un producto, que permite identificar la conveniencia de ese producto para un uso,
 		medio ambiente o aplicación específicos. Condiciones especiales de uso u otras limitaciones y otra
 		información pertinente puede ser marcada sobre el equipo, incluida en las instrucciones del producto, o
