@@ -410,6 +410,27 @@ ejemplo en “lugares secos”, “para uso interior únicamente”, en “lugar
 -------------------------------------------
 Los equipos eléctricos se deben instalar de manera limpia y competente.
 
-	* a) Aberturas no utilizadas.Las aberturas no utilizadas, diferentes a las destinadas a la operación del equipo, a aquellas con propósitos de montaje o a las permitidas como parte del diseño de equipo aprobado, deben estar cerradas para que ofrezcan una protección sustancialmente equivalente a la cubierta del equipo. Cuando se utilicen placas o tapones metálicos con envolventes no metálicos, éstos deben estar empotrados por lo menos 6 milímetros con respecto a la superficie exterior del envolvente.
+	* **a) Aberturas no utilizadas.** Las aberturas no utilizadas, diferentes a las destinadas a la operación del equipo, a aquellas con propósitos de montaje o a las permitidas como parte del diseño de equipo aprobado, deben estar cerradas para que ofrezcan una protección sustancialmente equivalente a la cubierta del equipo. Cuando se utilicen placas o tapones metálicos con envolventes no metálicos, éstos deben estar empotrados por lo menos 6 milímetros con respecto a la superficie exterior del envolvente.
 
-	* b) Integridad de los equipos y de las conexiones eléctricas. Las partes internas de los equipos eléctricos, tales como barras colectoras, terminales de alambrado, aisladores y otras superficies, no deben ser dañadas o contaminadas por materiales ajenos como pintura, yeso, limpiadores, abrasivos o residuos corrosivos. No debe haber partes dañadas que puedan afectar negativamente el funcionamiento seguro ni la resistencia mecánica de los equipos, tales como piezas rotas, dobladas, cortadas, o deterioradas por la corrosión, por agentes químicos o por recalentamiento.
+	* **b) Integridad de los equipos y de las conexiones eléctricas.** Las partes internas de los equipos eléctricos, tales como barras colectoras, terminales de alambrado, aisladores y otras superficies, no deben ser dañadas o contaminadas por materiales ajenos como pintura, yeso, limpiadores, abrasivos o residuos corrosivos. No debe haber partes dañadas que puedan afectar negativamente el funcionamiento seguro ni la resistencia mecánica de los equipos, tales como piezas rotas, dobladas, cortadas, o deterioradas por la corrosión, por agentes químicos o por recalentamiento.
+	
+110-13. Montaje y enfriamiento de equipo
+----------------------------------------
+
+	* **a) Montaje.** El equipo eléctrico debe estar firmemente sujeto a la superficie sobre la que está montado. No deben utilizarse taquetes de madera en agujeros en ladrillo, concreto, yeso o en materiales similares.
+
+	* **b) Enfriamiento.** El equipo eléctrico que dependa de la circulación natural del aire y de los principios de la convección para el enfriamiento de sus superficies expuestas, debe instalarse de modo que las paredes o el equipo instalado al lado dejen el suficiente espacio para la circulación del aire sobre dichas superficies. Para los equipos diseñados para montarse en el suelo, se deben dejar espacios libres entre las superficies superiores y adyacentes, para que se disipe el aire caliente que circula hacia arriba. El equipo eléctrico con aberturas de ventilación debe instalarse de modo que las paredes u otros obstáculos no impidan la libre circulación del aire a través del equipo.
+	
+110-14. Conexiones eléctricas. 
+------------------------------
+Debido a que metales distintos tienen características diferentes, las terminales a compresión, empalmes a compresión y terminales soldadas se deben identificar para el material del conductor y se deben instalar y usar apropiadamente. No se deben utilizar, en una terminal o en un empalme, conductores de metales distintos cuando haya contacto físico entre ellos (como por ejemplo, cobre y aluminio, cobre y aluminio revestido de cobre o aluminio y aluminio revestido de cobre), a menos que el dispositivo esté identificado para ese fin y esas condiciones de uso. Si se utilizan materiales como soldadura, fundentes, inhibidores y compuestos, estos deben ser adecuados para el uso y deben ser de un tipo que no afecte negativamente a los conductores, a la instalación o al equipo.
+
+Conectores y terminales para conductores con cableados más flexibles que los de Clase B y Clase C mostrados en el Capítulo 10, Tabla 10, se deben identificar para la clase o clases específicas de conductores.
+
+.. note::
+	**Nota:** En muchas terminales y equipo se indica su par de apriete.
+
+	* **a) Terminales.** Debe asegurarse que la conexión de los conductores a las terminales se haga de forma segura, sin deteriorar los conductores y debe hacerse por medio de conectores de presión (incluyendo los de tipo tornillo), conectores soldables o empalmes a terminales flexibles. Se permite la conexión por medio de placa y tornillo o perno roscado y tuerca en placas con las esquinas levantadas para conductores con tamaño 5.26 mm² (10 AWG) o menores.
+		Las terminales para más de un conductor y las terminales utilizadas para conectar aluminio, deben estar identificadas para ese uso
+
+	
