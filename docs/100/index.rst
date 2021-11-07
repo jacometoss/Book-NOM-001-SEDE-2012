@@ -6,9 +6,10 @@ Artículo 110
 Requisitos de las instalaciones eléctricas
 ******************************************
 
-************
+
 A. Generales
-************
+------------
+
 110-1. Alcance. 
 ~~~~~~~~~~~~~~~
 
