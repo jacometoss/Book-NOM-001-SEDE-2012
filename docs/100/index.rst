@@ -432,8 +432,10 @@ Conectores y terminales para conductores con cableados más flexibles que los de
 
 * **a) Terminales.** Debe asegurarse que la conexión de los conductores a las terminales se haga de forma segura, sin deteriorar los conductores y debe hacerse por medio de conectores de presión (incluyendo los de tipo tornillo), conectores soldables o empalmes a terminales flexibles. Se permite la conexión por medio de placa y tornillo o perno roscado y tuerca en placas con las esquinas levantadas para conductores con tamaño 5.26 mm² (10 AWG) o menores.
 	
-	Las terminales para más de un conductor y las terminales utilizadas para conectar aluminio, deben estar identificadas para ese uso
+	.. tip:: 
+		Las terminales para más de un conductor y las terminales utilizadas para conectar aluminio, deben estar identificadas para ese uso
 
 * **b) Empalmes.** Los conductores se deben empalmar con dispositivos adecuados según su uso o con soldadura de bronce, soldadura autógena, o soldadura con un metal fundible o de aleación. Los empalmes soldados deben unirse primero, de forma que aseguren, antes de soldarse, una conexión firme, tanto mecánica como eléctrica y después soldarse (Véase 921-24(b)). Los empalmes, uniones y extremos libres de los conductores deben cubrirse con un aislamiento equivalente al de los conductores o con un dispositivo aislante identificado para ese fin.
 	
-	Los conectores o medios de empalme de los cables que van directamente enterrados, deben estar aprobados para ese uso.	
+	.. tip::
+		Los conectores o medios de empalme de los cables que van directamente enterrados, deben estar aprobados para ese uso.	
