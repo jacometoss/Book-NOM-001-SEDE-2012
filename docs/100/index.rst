@@ -387,3 +387,22 @@ Los equipos destinados para interrumpir la corriente a otros niveles distintos d
 --------------------------------------------------------------------------------------
 
 Los dispositivos de protección contra sobrecorriente, la impedancia total, las corrientes de interrupción de cortocircuito de los equipos y otras características del circuito que se va a proteger, se deben elegir y coordinar de modo que permitan que los dispositivos para protección del circuito contra fallas, operen para limpiar la falla sin causar daños a los equipos eléctricos del circuito. Se debe suponer que la falla puede ocurrir entre dos o más conductores del circuito o entre cualquier conductor del circuito y el(los) conductor(es) de puesta a tierra del equipo permitido en 250-118. Se debe considerar que los productos aprobados, utilizados de acuerdo con su aprobación, cumplen con los requisitos de esta Sección.
+
+110-11. Agentes deteriorantes. 
+------------------------------
+
+A menos que estén identificados para ser usados en el ambiente en que van a operar, no se deben instalar conductores ni equipos en lugares húmedos o mojados, o donde puedan estar expuestos a gases, humos, vapores, líquidos u otros agentes que tengan un efecto deteriorante sobre los conductores o los equipos, o donde puedan estar expuestos a temperaturas excesivas.
+
+.. note::
+	**Nota 1:** Ver 300-6 con respecto a la protección contra la corrosión.
+
+.. note::
+	**Nota 2:** Algunos compuestos de limpieza y lubricación pueden causar grave deterioro de muchos
+materiales plásticos utilizados en aplicaciones de aislamiento y estructurales en los equipos.
+
+Los equipos no identificados para uso en exterior y el equipo identificado para uso interior únicamente, por
+ejemplo en “lugares secos”, “para uso interior únicamente”, en “lugares húmedos” o envolventes de tipos 1, 2,
+5, 12, 12K y/o 13 se deben proteger contra daños causados por estar a la intemperie durante la construcción.
+
+.. note::
+	**Nota 3:** Ver **Tabla 110-28** para las designaciones apropiadas de los envolventes.
