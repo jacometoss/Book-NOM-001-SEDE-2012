@@ -296,7 +296,6 @@ En tanto que las definiciones generales de la Parte A anterior se aplican en tod
 **Tabla de contenido**
 
 .. toctree::
-   :numbered:
    :maxdepth: 3
 
    100/index
