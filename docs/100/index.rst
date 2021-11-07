@@ -438,4 +438,8 @@ Conectores y terminales para conductores con cableados más flexibles que los de
 * **b) Empalmes.** Los conductores se deben empalmar con dispositivos adecuados según su uso o con soldadura de bronce, soldadura autógena, o soldadura con un metal fundible o de aleación. Los empalmes soldados deben unirse primero, de forma que aseguren, antes de soldarse, una conexión firme, tanto mecánica como eléctrica y después soldarse (Véase 921-24(b)). Los empalmes, uniones y extremos libres de los conductores deben cubrirse con un aislamiento equivalente al de los conductores o con un dispositivo aislante identificado para ese fin.
 	
 	.. attention::
-		Los conectores o medios de empalme de los cables que van directamente enterrados, deben estar aprobados para ese uso.	
+		Los conectores o medios de empalme de los cables que van directamente enterrados, deben estar aprobados para ese uso.
+		
+* **c) Limitaciones por temperatura.** La temperatura nominal de operación del conductor, asociada con su ampacidad, debe seleccionarse y coordinarse de forma que no exceda la temperatura nominal más baja de cualquier terminal, conductor o dispositivo conectado. Se permite el uso de conductores con temperatura nominal mayor que la especificada para las terminales, cuando se utilizan factores de ajuste por temperatura o de corrección por ampacidad o ambos.
+
+	* **1) Disposiciones para el equipo.** La determinación de las disposiciones para las terminales del equipo se deben basar en 110-14(c)(1)(a) o (c)(1)(b). A menos que el equipo esté aprobado y marcado de forma diferente, la ampacidad del conductor utilizada para determinar las disposiciones para los terminales del equipo se debe basar en la Tabla 310-15(b)(16) y según las modificaciones adecuadas de 310-15(b)(7).
