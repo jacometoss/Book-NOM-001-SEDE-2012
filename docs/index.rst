@@ -15,7 +15,7 @@ La Parte B contiene las definiciones aplicables únicamente en los Artículos qu
 
 
 A. Deficiones Generales
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 * **A la vista de:** Donde se especifique que un equipo debe estar **A la vista de** otro equipo, significa que un equipo debe estar visible desde el otro equipo y que no están separados más de 15 metros uno del otro.
 * **A prueba de intemperie:** Construido o protegido de modo que su exposición o uso a la intemperie no impida el funcionamiento especificado.
