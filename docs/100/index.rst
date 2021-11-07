@@ -1,10 +1,10 @@
 Artículo 110
-============
+------------
 
 
-******************************************
+
 Requisitos de las instalaciones eléctricas
-******************************************
+------------------------------------------
 
 
 A. Generales
@@ -31,4 +31,5 @@ anteriores se consideran aprobados para los efectos de esta NOM.
 ----------------------------------------------------------------
 
 	* a) Selección. Para la selección de los elementos que conformarán la instalación eléctrica, se debe tomar en cuenta lo siguiente:
+		
 		*(1) Conveniencia para instalación y uso de conformidad con las disposiciones de esta NOM.
