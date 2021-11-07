@@ -360,3 +360,30 @@ En toda esta NOM, las tensiones consideradas deben ser aquellas a las que funcio
 -------------------
 
 Los conductores normalmente utilizados para transportar corriente deben ser de cobre, a no ser que en esta NOM, se indique otra cosa. Si no se especifica el material del conductor, el material y las secciones transversales que se indiquen en esta NOM se deben aplicar como si fueran conductores de cobre. Si se utilizan otros materiales, los tamaños deben cambiarse conforme a su equivalente en cobre como se señala en 310-15.
+
+110-6. Designación (tamaño) de los conductores. 
+-----------------------------------------------
+
+Los tamaños de los conductores se indican como designación y se expresan en milímetros cuadrados y opcionalmente su equivalente en AWG (American Wire Gage) o en mil circular mil (kcmil).
+
+110-7. Integridad del alambrado. 
+--------------------------------
+
+Las instalaciones de alambrado en el momento de quedar terminadas deben estar libres de cortocircuitos, fallas a tierra o cualquier conexión a tierra diferente de lo exigido o permitido en esta NOM.
+
+110-8. Métodos de alambrado. 
+----------------------------
+
+En esta NOM sólo se consideran métodos de alambrado reconocidos como adecuados. Estos métodos de alambrado se permitirán en cualquier tipo de edificio u ocupación, siempre que en esta NOM no se indique lo contrario.
+
+110-9. Corriente de interrupción. 
+---------------------------------
+
+Los equipos destinados a interrumpir corrientes de falla deben tener un rango nominal de interrupción no menor que la tensión nominal del circuito y la corriente existente en los terminales de línea del equipo.
+
+Los equipos destinados para interrumpir la corriente a otros niveles distintos del de falla, deben tener rango de interrupción la tensión nominal del circuito, no menor que la corriente que debe ser interrumpida.
+
+110-10. Impedancia del circuito, capacidades de cortocircuito y otras características. 
+--------------------------------------------------------------------------------------
+
+Los dispositivos de protección contra sobrecorriente, la impedancia total, las corrientes de interrupción de cortocircuito de los equipos y otras características del circuito que se va a proteger, se deben elegir y coordinar de modo que permitan que los dispositivos para protección del circuito contra fallas, operen para limpiar la falla sin causar daños a los equipos eléctricos del circuito. Se debe suponer que la falla puede ocurrir entre dos o más conductores del circuito o entre cualquier conductor del circuito y el(los) conductor(es) de puesta a tierra del equipo permitido en 250-118. Se debe considerar que los productos aprobados, utilizados de acuerdo con su aprobación, cumplen con los requisitos de esta Sección.
