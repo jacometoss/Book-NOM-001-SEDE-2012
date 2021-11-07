@@ -326,7 +326,7 @@ anteriores se consideran aprobados para los efectos de esta NOM.
 110-3. Evaluación, identificación, instalación y uso del equipo.
 ----------------------------------------------------------------
 
-	* **a) Selección.** Para la selección de los elementos que conformarán la instalación eléctrica, se debe tomar en cuenta lo siguiente:
+**110-3 a) Selección.** Para la selección de los elementos que conformarán la instalación eléctrica, se debe tomar en cuenta lo siguiente:
 		
 	* [1] Conveniencia para instalación y uso de conformidad con las disposiciones de esta NOM.
 		
@@ -351,4 +351,4 @@ anteriores se consideran aprobados para los efectos de esta NOM.
 
 	* [8] Otros factores que contribuyan a la salvaguarda de las personas que utilicen o que puedan entrar en contacto con el equipo.
 	
-	* **b) Instalación y uso.** Los equipos etiquetados se deben instalar y usar de acuerdo con las instrucciones incluidas en la etiqueta y/o instructivo
+**110 b) Instalación y uso.** Los equipos etiquetados se deben instalar y usar de acuerdo con las instrucciones incluidas en la etiqueta y/o instructivo
