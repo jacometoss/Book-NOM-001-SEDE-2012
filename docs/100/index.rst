@@ -351,4 +351,8 @@ anteriores se consideran aprobados para los efectos de esta NOM.
 
 	* [8] Otros factores que contribuyan a la salvaguarda de las personas que utilicen o que puedan entrar en contacto con el equipo.
 	
-**110 b) Instalación y uso.** Los equipos etiquetados se deben instalar y usar de acuerdo con las instrucciones incluidas en la etiqueta y/o instructivo
+**110 b) Instalación y uso.** Los equipos etiquetados se deben instalar y usar de acuerdo con las instrucciones incluidas en la etiqueta y/o instructivo.
+
+**110-4. Tensiones.** En toda esta NOM, las tensiones consideradas deben ser aquellas a las que funcionan los circuitos. Las tensiones utilizadas de corriente alterna son: 120, 127, 120/240, 208Y/120, 220Y/127, 240, 480Y/277, 480, 600Y/347 ó 600 volts. La tensión nominal de un equipo no debe ser menor a la tensión real del circuito al que está conectado.
+
+	* **Véase NMX-J-098-ANCE**
