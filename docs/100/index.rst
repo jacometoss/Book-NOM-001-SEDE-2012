@@ -355,3 +355,8 @@ anteriores se consideran aprobados para los efectos de esta NOM.
 En toda esta NOM, las tensiones consideradas deben ser aquellas a las que funcionan los circuitos. Las tensiones utilizadas de corriente alterna son: 120, 127, 120/240, 208Y/120, 220Y/127, 240, 480Y/277, 480, 600Y/347 ó 600 volts. La tensión nominal de un equipo no debe ser menor a la tensión real del circuito al que está conectado.
 
 	* **Véase NMX-J-098-ANCE**
+	
+110-5. Conductores. 
+-------------------
+
+Los conductores normalmente utilizados para transportar corriente deben ser de cobre, a no ser que en esta NOM, se indique otra cosa. Si no se especifica el material del conductor, el material y las secciones transversales que se indiquen en esta NOM se deben aplicar como si fueran conductores de cobre. Si se utilizan otros materiales, los tamaños deben cambiarse conforme a su equivalente en cobre como se señala en 310-15.
