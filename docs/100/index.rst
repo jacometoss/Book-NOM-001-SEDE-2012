@@ -497,10 +497,7 @@ En todos los equipos eléctricos se debe colocar el nombre del fabricante, la ma
 			CORRIENTE NOMINAL ______ AMPERES.
 		SE REQUIEREN COMPONENTES IDENTIFICADOS DE REPUESTO
 
-c) Sistemas combinados en serie a prueba. 
------------------------------------------
-
-Los envolventes de equipo para interruptores automáticos o fusibles aplicados de conformidad con los valores para combinación en serie marcados en el equipo por el fabricante de acuerdo con 240-86(b), se debe marcar en el campo en forma legible, para indicar que el equipo ha sido aplicado con el valor de combinación en serie. La marca debe ser fácilmente visible y debe incluir la siguiente información:
+* **c) Sistemas combinados en serie a prueba.** Los envolventes de equipo para interruptores automáticos o fusibles aplicados de conformidad con los valores para combinación en serie marcados en el equipo por el fabricante de acuerdo con 240-86(b), se debe marcar en el campo en forma legible, para indicar que el equipo ha sido aplicado con el valor de combinación en serie. La marca debe ser fácilmente visible y debe incluir la siguiente información:
 
 	.. code:: text
 
@@ -513,3 +510,11 @@ Los envolventes de equipo para interruptores automáticos o fusibles aplicados d
 -------------------------------------
 
 Los transformadores de corriente no utilizados que se asocian con circuitos potencialmente energizados deben estar en cortocircuito.
+
+B. 600 volts o menos
+---------------------
+
+110-26. Espacio de trabajo alrededor de equipo eléctrico (de 600 volts o menos). 
+--------------------------------------------------------------------------------
+
+Alrededor de todo equipo eléctrico debe existir y mantenerse un espacio de acceso y de trabajo suficiente que permita el funcionamiento y el mantenimiento rápido y seguro de dicho equipo.
