@@ -444,7 +444,8 @@ Conectores y terminales para conductores con cableados más flexibles que los de
 
 	* **1) Disposiciones para el equipo.** La determinación de las disposiciones para las terminales del equipo se deben basar en 110-14(c)(1)(a) o (c)(1)(b). A menos que el equipo esté aprobado y marcado de forma diferente, la ampacidad del conductor utilizada para determinar las disposiciones para los terminales del equipo se debe basar en la Tabla 310-15(b)(16) y según las modificaciones adecuadas de 310-15(b)(7).
 		
-		* **a**. Las terminales de equipos para circuitos de 100 amperes o menos o marcadas para conductores con tamaño 2.08 mm² a 42.4 mm² (14 AWG a 1 AWG), deben utilizarse solamente en uno de los siguientes:
+		* **a**. Las terminales de equipos para circuitos de 100 amperes o menos o marcadas para conductores con tamaño 2.08 mm² a 42.4 mm² (14 AWG a 1 AWG), deben utilizarse solamente en uno de los siguientes :
+			
 			*	**[1]** Conductores con temperatura de operación del aislamiento de 60 ºC.
 			*   **[2]** Conductores con temperatura de operación del aislamiento mayor, siempre y cuando la ampacidad de estos conductores se determine tomando como base la ampacidad a 60 °C del tamaño del conductor usado.
 			*   **[3]** Conductores con temperatura de operación del aislamiento mayor, si el equipo está aprobado e identificado para tales conductores.
