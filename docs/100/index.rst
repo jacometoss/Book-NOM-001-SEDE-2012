@@ -484,6 +484,7 @@ Las partes del equipo eléctrico que en su funcionamiento normal producen arcos,
 En todos los equipos eléctricos se debe colocar el nombre del fabricante, la marca comercial u otra marca descriptiva mediante la cual se pueda identificar a la empresa responsable del producto. Debe haber otras marcas que indiquen la tensión, la corriente, la potencia u otros valores nominales, tal como se especifica en otras secciones de esta NOM. El marcado debe ser suficientemente durable para resistir las condiciones ambientales involucradas.	
 
 110-22. Identificación de los medios de desconexión.
+----------------------------------------------------
 
 * **a) General.** Cada uno de los medios de desconexión debe estar marcado de modo legible para que indique su propósito, a no ser que estén situados e instalados de modo que ese propósito sea evidente. El marcado debe ser suficientemente durable para resistir las condiciones ambientales involucradas.
 
@@ -491,6 +492,7 @@ En todos los equipos eléctricos se debe colocar el nombre del fabricante, la ma
 * **b) Sistemas combinados en serie con supervisión de ingeniería.** Los envolventes de equipo para interruptores automáticos o fusibles aplicados de conformidad con los valores para combinación en serie, seleccionados bajo la supervisión de ingeniería de acuerdo con 240-86(a) y estén marcados según las indicaciones del ingeniero para indicar que el equipo ha sido aplicado con el valor de combinación en serie. La marca debe ser fácilmente visible y debe incluir la siguiente información :
 
 .. code:: text
+
 	PRECAUCIÓN - SISTEMA COMBINADO EN SERIE CON SUPERVISIÓN DE INGENIERÍA
-	CORRIENTE NOMINAL ______ AMPERES.
+		CORRIENTE NOMINAL ______ AMPERES.
 	SE REQUIEREN COMPONENTES IDENTIFICADOS DE REPUESTO
