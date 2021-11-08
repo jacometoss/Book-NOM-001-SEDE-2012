@@ -533,7 +533,7 @@ Alrededor de todo equipo eléctrico debe existir y mantenerse un espacio de acce
 Tabla 110-26(a)(1).-Espacios de trabajo 
 ---------------------------------------
 
-.. figure:: 01_Tabla_110-26_a_1.jpg
+.. figure:: img/01_Tabla_110-26_a_1.jpg
    :scale: 100 %
    :alt: Tabla 110-26(a)(1)
 
