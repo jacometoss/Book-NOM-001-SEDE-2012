@@ -552,3 +552,16 @@ Las condiciones son las siguientes :
 	
 	.. warning::
 		**Excepción 2:** Es permitido que los medidores que se instalan en las bases enchufe sobresalgan de los otros equipos. Se requiere que los medidores cumplan las reglas de esta sección de la NOM.
+		
+	*	**b) Espacios libres. El espacio de trabajo exigido en esta sección no se debe utilizar para almacenamiento. Cuando las partes vivas normalmente encerradas queden expuestas para su inspección o reparación, el espacio de trabajo, si está en un pasillo o en un espacio abierto general, debe estar debidamente resguardado.
+
+	*	**c) Entrada y salida del espacio de trabajo**
+
+		*	1) Mínimo requerido. Debe haber al menos una entrada de área suficiente para dar entrada y salida al espacio de trabajo alrededor del equipo eléctrico.
+
+		*	2) Equipos grandes. Para equipo de 1200 amperes o más y de más de 1.80 metros de ancho, que contenga dispositivos de protección contra sobrecorriente, dispositivos de interrupción o de control, debe tener una entrada y una salida del espacio de trabajo requerido de por lo menos 60 centímetros de ancho y 2.00 metros de alto en cada extremo del espacio de trabajo.
+
+		*	Se permitirá una sola entrada a y salida del espacio de trabajo requerido, donde se cumpla cualquiera de las condiciones que se indican en (a) o (b).
+		
+			*	**a. Salida no obstruida.** Se permite únicamente una entrada al espacio de trabajo, si el lugar permite una circulación continua y sin obstáculos hacia la salida.
+			
