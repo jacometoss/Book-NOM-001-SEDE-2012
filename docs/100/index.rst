@@ -460,4 +460,11 @@ Conectores y terminales para conductores con cableados más flexibles que los de
 	* **2) Conectores de compresión separables.** Los conectores a presión instalados separadamente se deben utilizar con conductores cuya ampacidad no supere la ampacidad a la temperatura nominal listada e identificada del conector.
 
 	.. note::
-		Nota: Con respecto a **110-14(c)(1)** y **(c)(2)** , la información marcada o aprobada del equipo puede restringir aún más el tamaño y la temperatura nominal de los conductores conectados.	
+		Nota: Con respecto a **110-14(c)(1)** y **(c)(2)** , la información marcada o aprobada del equipo puede restringir aún más el tamaño y la temperatura nominal de los conductores conectados.
+		
+110-16. Señales de advertencia contra arco eléctrico. 
+-----------------------------------------------------
+
+Los equipos eléctricos tales como tableros de distribución, tableros de control industrial, envolventes para medidores enchufables y centros de control de motores, que estén en sitios que no son para vivienda y que probablemente requieran de inspección, ajuste, reparación o mantenimiento, mientras estén energizados, deben estar marcados en campo para advertir al personal calificado del peligro potencial de arco eléctrico. El marcado debe estar ubicado de manera tal que sea claramente visible para el personal calificado antes de la inspección, el ajuste, la reparación o el mantenimiento del equipo.
+
+**NOTA: Ver la NOM-029-STPS-2011**
