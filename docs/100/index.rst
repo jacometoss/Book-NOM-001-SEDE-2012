@@ -491,8 +491,25 @@ En todos los equipos eléctricos se debe colocar el nombre del fabricante, la ma
 
 * **b) Sistemas combinados en serie con supervisión de ingeniería.** Los envolventes de equipo para interruptores automáticos o fusibles aplicados de conformidad con los valores para combinación en serie, seleccionados bajo la supervisión de ingeniería de acuerdo con 240-86(a) y estén marcados según las indicaciones del ingeniero para indicar que el equipo ha sido aplicado con el valor de combinación en serie. La marca debe ser fácilmente visible y debe incluir la siguiente información :
 
-.. code:: text
+	.. code:: text
 
-	PRECAUCIÓN - SISTEMA COMBINADO EN SERIE CON SUPERVISIÓN DE INGENIERÍA
+		PRECAUCIÓN - SISTEMA COMBINADO EN SERIE CON SUPERVISIÓN DE INGENIERÍA
+			CORRIENTE NOMINAL ______ AMPERES.
+		SE REQUIEREN COMPONENTES IDENTIFICADOS DE REPUESTO
+
+c) Sistemas combinados en serie a prueba. 
+-----------------------------------------
+
+Los envolventes de equipo para interruptores automáticos o fusibles aplicados de conformidad con los valores para combinación en serie marcados en el equipo por el fabricante de acuerdo con 240-86(b), se debe marcar en el campo en forma legible, para indicar que el equipo ha sido aplicado con el valor de combinación en serie. La marca debe ser fácilmente visible y debe incluir la siguiente información:
+
+	.. code:: text
+
+		PRECAUCIÓN- SISTEMA COMBINADO EN SERIE
+
 		CORRIENTE NOMINAL ______ AMPERES.
-	SE REQUIEREN COMPONENTES IDENTIFICADOS DE REPUESTO
+		SE REQUIEREN COMPONENTES IDENTIFICADOS DE REPUESTO
+
+110-23. Transformadores de corriente. 
+-------------------------------------
+
+Los transformadores de corriente no utilizados que se asocian con circuitos potencialmente energizados deben estar en cortocircuito.
