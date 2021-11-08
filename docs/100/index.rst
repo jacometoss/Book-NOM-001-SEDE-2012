@@ -467,4 +467,18 @@ Conectores y terminales para conductores con cableados más flexibles que los de
 
 Los equipos eléctricos tales como tableros de distribución, tableros de control industrial, envolventes para medidores enchufables y centros de control de motores, que estén en sitios que no son para vivienda y que probablemente requieran de inspección, ajuste, reparación o mantenimiento, mientras estén energizados, deben estar marcados en campo para advertir al personal calificado del peligro potencial de arco eléctrico. El marcado debe estar ubicado de manera tal que sea claramente visible para el personal calificado antes de la inspección, el ajuste, la reparación o el mantenimiento del equipo.
 
-**NOTA: Ver la NOM-029-STPS-2011**
+.. note::
+	**Nota:** Ver la NOM-029-STPS-2011
+	
+110-18. Partes que forman arcos eléctricos. 
+-------------------------------------------
+
+Las partes del equipo eléctrico que en su funcionamiento normal producen arcos, chispas, flamas o metal fundido, se deben encerrar o separar y alejar de todo material combustible.
+
+.. note::
+	**Nota:** Para lugares (clasificados como) peligrosos ver los Artículos 500 a 517. Para los motores, ver 430-14.
+
+110-21. Marcado. 
+----------------
+
+En todos los equipos eléctricos se debe colocar el nombre del fabricante, la marca comercial u otra marca descriptiva mediante la cual se pueda identificar a la empresa responsable del producto. Debe haber otras marcas que indiquen la tensión, la corriente, la potencia u otros valores nominales, tal como se especifica en otras secciones de esta NOM. El marcado debe ser suficientemente durable para resistir las condiciones ambientales involucradas.	
