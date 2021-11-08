@@ -537,4 +537,10 @@ Tabla 110-26(a)(1).-Espacios de trabajo
    :scale: 100 %
    :alt: Tabla 110-26(a)(1)
 
+Las condiciones son las siguientes :
+
+*	1. Partes vivas expuestas en un lado y no vivas ni conectadas a tierra en el otro lado del espacio de trabajo, o partes vivas expuestas a ambos lados, protegidas eficazmente por materiales aislantes.
+*	2. Partes vivas expuestas a un lado y conectadas a tierra al otro lado. Las paredes de concreto, ladrillo o mosaico se deben considerar como puestas a tierra.
+*	3. Partes vivas expuestas en ambos lados del espacio de trabajo.
+
 		
