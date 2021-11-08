@@ -449,3 +449,6 @@ Conectores y terminales para conductores con cableados más flexibles que los de
 			*	**[1]** Conductores con temperatura de operación del aislamiento de 60 ºC.
 			*   **[2]** Conductores con temperatura de operación del aislamiento mayor, siempre y cuando la ampacidad de estos conductores se determine tomando como base la ampacidad a 60 °C del tamaño del conductor usado.
 			*   **[3]** Conductores con temperatura de operación del aislamiento mayor, si el equipo está aprobado e identificado para tales conductores.
+			*   **[4]** Para motores marcados con las letras de diseño B, C, D o E, se permite el uso de conductores que tienen un aislamiento con temperatura de operación de 75 ºC o mayor siempre y cuando la ampacidad de tales conductores no exceda de la ampacidad para 75 ºC.
+			
+		* **b**. Las disposiciones para las terminales del equipo para circuitos con un valor nominal mayor que 100 amperes, o marcados para conductores de tamaño mayor que 42.4 mm² (1 AWG) se deben usar solamente para uno de los siguientes :	
