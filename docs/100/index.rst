@@ -534,7 +534,7 @@ Tabla 110-26(a)(1).-Espacios de trabajo
 ---------------------------------------
 
 .. figure:: img/01_Tabla_110-26_a_1.jpg
-   :scale: 100 %
+   :scale: 75 %
    :alt: Tabla 110-26(a)(1)
 
 Las condiciones son las siguientes :
