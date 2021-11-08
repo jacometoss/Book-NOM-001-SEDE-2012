@@ -547,8 +547,8 @@ Las condiciones son las siguientes :
 
 	* **3) Altura del espacio de trabajo.** El espacio de trabajo debe estar libre y debe extenderse desde el nivel del suelo o plataforma hasta la altura de 2.00 metros o la altura del equipo, la que sea mayor. Dentro de los requisitos de altura de esta sección, se permite que otros equipos asociados con la instalación eléctrica y que estén localizadas arriba o abajo del equipo eléctrico se extiendan no más de 15 centímetros más allá del frente del equipo eléctrico.
 	
-	..warning::
+	.. warning::
 		**Excepción 1:** En unidades de vivienda se permitirá que los equipos de acometida y tableros de control, que no excedan 200 amperes, estén instalados en espacios donde la altura de trabajo sea menor de 2.00 metros.
 	
-	..warning::
+	.. warning::
 		**Excepción 2:** Es permitido que los medidores que se instalan en las bases enchufe sobresalgan de los otros equipos. Se requiere que los medidores cumplan las reglas de esta sección de la NOM.
