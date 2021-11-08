@@ -452,3 +452,12 @@ Conectores y terminales para conductores con cableados más flexibles que los de
 			*   **[4]** Para motores marcados con las letras de diseño B, C, D o E, se permite el uso de conductores que tienen un aislamiento con temperatura de operación de 75 ºC o mayor siempre y cuando la ampacidad de tales conductores no exceda de la ampacidad para 75 ºC.
 			
 		* **b**. Las disposiciones para las terminales del equipo para circuitos con un valor nominal mayor que 100 amperes, o marcados para conductores de tamaño mayor que 42.4 mm² (1 AWG) se deben usar solamente para uno de los siguientes :	
+		
+			*   **[1]** Conductores con temperatura de operación del aislamiento de 75 ºC.
+
+			*   **[2]** Conductores con temperatura de operación del aislamiento mayor, siempre y cuando la ampacidad de tales conductores no exceda la ampacidad a 75 °C. Este tipo de conductores también pueden utilizarse si el equipo está aprobado e identificado para uso con tales conductores.
+
+	* **2) Conectores de compresión separables.** Los conectores a presión instalados separadamente se deben utilizar con conductores cuya ampacidad no supere la ampacidad a la temperatura nominal listada e identificada del conector.
+
+	.. note::
+		Nota: Con respecto a **110-14(c)(1)** y **(c)(2)** , la información marcada o aprobada del equipo puede restringir aún más el tamaño y la temperatura nominal de los conductores conectados.	
