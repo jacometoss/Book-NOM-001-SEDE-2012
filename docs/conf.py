@@ -67,6 +67,6 @@ html_static_path = ['_static']
 
 html_search_language = 'es'
 
-html_search_scorer = 'scorer.js'
+min_word_len = 20
 
 
