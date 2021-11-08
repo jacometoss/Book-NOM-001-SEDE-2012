@@ -518,3 +518,7 @@ B. 600 volts o menos
 --------------------------------------------------------------------------------
 
 Alrededor de todo equipo eléctrico debe existir y mantenerse un espacio de acceso y de trabajo suficiente que permita el funcionamiento y el mantenimiento rápido y seguro de dicho equipo.
+
+* **a) Espacio de trabajo.** El espacio de trabajo para equipo que opera a tensión a tierra de 600 volts o menos y que pueda requerir de inspección, ajuste, reparación o mantenimiento mientras está energizado, debe cumplir con las dimensiones indicadas en(1), (2) y (3) siguientes, o las que se exijan o permitan en alguna otra parte de esta NOM.
+
+	* **1) Profundidad del espacio de trabajo.** La profundidad del espacio de trabajo en la dirección a las partes vivas no debe ser menor a la indicada en la Tabla 110-26(a)(1) a menos que cumplan los requisitos que se indican en (1)(a), (1)(b) o (1)(c). Las distancias deben medirse desde las partes vivas expuestas o desde el envolvente o la abertura si las partes vivas están encerradas.
