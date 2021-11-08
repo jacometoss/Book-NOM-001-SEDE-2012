@@ -542,3 +542,13 @@ Las condiciones son las siguientes :
 		* **b. Baja tensión.** Se permitirán espacios de trabajo más pequeños, si todas las partes vivas expuestas operan a tensiones no mayores a 30 volts valor eficaz (rms), 42 volts de valor pico o 60 volts de corriente continua.
 		
 		* **c. Edificios existentes.** En los edificios existentes en los que se vaya a cambiar el equipo eléctrico, debe dejarse un espacio de trabajo como el de la Condición 2 entre tableros de distribución de fuerza de frente muerto, gabinetes de alumbrado o centros de control de motores localizados uno y otro al otro lado del pasillo y donde las condiciones de mantenimiento y supervisión aseguren que se han dado instrucciones por escrito para prohibir que se abra al mismo tiempo el equipo a ambos lados del pasillo y que el mantenimiento de la instalación sea efectuado por personas calificadas.
+
+	* **2) Ancho del espacio de trabajo.** El ancho del espacio de trabajo en el frente del equipo eléctrico debe ser igual al ancho del equipo o 80 centímetros, el que sea mayor. En todos los casos, el espacio de trabajo debe permitir abrir por lo menos a 90° las puertas o paneles abisagrados del equipo.
+
+	* **3) Altura del espacio de trabajo.** El espacio de trabajo debe estar libre y debe extenderse desde el nivel del suelo o plataforma hasta la altura de 2.00 metros o la altura del equipo, la que sea mayor. Dentro de los requisitos de altura de esta sección, se permite que otros equipos asociados con la instalación eléctrica y que estén localizadas arriba o abajo del equipo eléctrico se extiendan no más de 15 centímetros más allá del frente del equipo eléctrico.
+	
+	..attention::
+		**Excepción 1:** En unidades de vivienda se permitirá que los equipos de acometida y tableros de control, que no excedan 200 amperes, estén instalados en espacios donde la altura de trabajo sea menor de 2.00 metros.
+	
+		..attention::
+		**Excepción 2:** Es permitido que los medidores que se instalan en las bases enchufe sobresalgan de los otros equipos. Se requiere que los medidores cumplan las reglas de esta sección de la NOM.
