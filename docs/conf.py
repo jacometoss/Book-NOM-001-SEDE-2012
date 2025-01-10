@@ -60,6 +60,7 @@ html_show_sourcelink = True
 #
 #html_theme = 'bizstyle'
 html_theme = 'sphinx_rtd_theme'
+html_search_language = 'es'
 #html_theme = 'bizstyle'
 
 # Add any paths that contain custom static files (such as style sheets) here,
