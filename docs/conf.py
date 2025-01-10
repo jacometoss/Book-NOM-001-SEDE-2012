@@ -59,7 +59,7 @@ html_show_sourcelink = True
 # a list of builtin themes.
 #
 #html_theme = 'bizstyle'
-html_theme = 'sphinxdoc'
+html_theme = 'pyramid'
 html_search_language = 'es'
 #html_theme = 'bizstyle'
 
